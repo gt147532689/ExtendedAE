@@ -27,5 +27,5 @@
     "appflux.key.flux": "能量",
     "appfkux.type.fe.name": "FE",
     "appfkux.type.gteu.name": "EU(GT)",
-    "appflux.cell.storage": "包含: %s %s"
+    "appflux.cell.storage": "已容纳: %s %s"
   }
